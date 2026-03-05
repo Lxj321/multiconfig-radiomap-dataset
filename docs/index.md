@@ -28,3 +28,7 @@ A benchmark dataset for **multi-configuration radiomap prediction** in U6G/XL-MI
 ## Repo status
 
 This website is being finalized. Please check **Quickstart** for running pretrained evaluation.
+
+## Contributer
+Xiaojie Li (李宵杰) xiaojieli@seu.edu.cn
+
