@@ -1,14 +1,3 @@
-好，我直接把首页再往“正式可对外展示”的版本推进一版。下面这份是**升级后的完整 `index.md`**，在你当前版本基础上补了：
-
-* 更完整的首页结构
-* `Links` 区块（先占位，后面你补真实链接）
-* `Citation` 区块
-* `License` 区块
-* 更清晰的项目定位和入口说明
-
-你可以直接整体替换。
-
-````markdown
 # U6G XL-MIMO Radiomap Prediction: Multi-config Dataset & Beam Map Approach
 
 A benchmark dataset for **multi-configuration radiomap prediction** in **U6G / XL-MIMO** systems, featuring **800 scenes**, **multi-frequency**, **multi-antenna**, and **multi-beam** settings.
