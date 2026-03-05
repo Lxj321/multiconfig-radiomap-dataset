@@ -37,7 +37,7 @@ Each task name follows the structure
 
 ```text
 <split>_<density>_<input_mode>
-````
+```
 
 or, for sparse tasks,
 
